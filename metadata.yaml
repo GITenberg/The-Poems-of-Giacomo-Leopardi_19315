@@ -1,0 +1,33 @@
+_repo: The-Poems-of-Giacomo-Leopardi_19315
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Townsend, Frederick
+    gutenberg_agent_id: '8594'
+    url: http://www.gutenberg.org/2009/agents/8594
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leopardi, Giacomo
+    birthdate: 1798
+    deathdate: 1837
+    gutenberg_agent_id: '8593'
+    url: http://www.gutenberg.org/2009/agents/8593
+    wikipedia: http://en.wikipedia.org/wiki/Giacomo_Leopardi
+description: ''
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2006-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19315'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: The Poems of Giacomo Leopardi
+url: http://www.gutenberg.org/ebooks/19315
