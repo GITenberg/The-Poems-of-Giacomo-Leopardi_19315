@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8593
     wikipedia: http://en.wikipedia.org/wiki/Giacomo_Leopardi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19315#The-Poems-of-Giacomo-Leopardi
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2006-09-19'
 gutenberg_type: Text
